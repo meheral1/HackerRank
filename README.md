@@ -15,12 +15,12 @@ This repository is a collection of my solutions to various challenges on HackerR
 I am currently focusing on the **Prepare** tracks to strengthen my fundamentals. I upload solutions daily to track my consistency.
 
 ### 🧩 Problem Solving / Prepare
-*This section contains algorithms and data structures challenges.*
+
 - **Status:** Daily Updates 🔄
 - **Goal:** Mastering Logic & Complexity
 
 ### 🐍 Python / Prepare
-*This section focuses on Python-specific features and syntax.*
+
 - **Status:** Daily Updates 🔄
 - **Goal:** Achieving Python Proficiency
 
